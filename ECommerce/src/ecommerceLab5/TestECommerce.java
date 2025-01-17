@@ -1,11 +1,8 @@
 package ecommerceLab5;
 /**
  * File name: TestECommerce
- * Author: Kira Evans 041155915
- * Course: CST8284 - OOP 
- * Assignment: Lab 5
+ * Author: Kira Evans 
  * Date: November 4th 2024
- * Professor: Sandra Iroakazi 
  * Purpose: This program emulates a e-commerce platform it contains an abstract class 
  * and two classes physical product and digital product. The methods in the concrete classes are 
  * overridden to display messages unique to the product purchased. 
